@@ -1,0 +1,19 @@
+{
+  "name": "433",
+  "apiVersion": "1.0.0",
+  "author": "LZX",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "433": {
+      "type": "DigitalMeasurement",
+      "entryPoint": "DigitalMeasurement.MyDigitalMeasurer",
+      "metrics": {
+        "metricKey": {
+          "name": "<metric_name>",
+          "notation": "<short_notation>"
+        }
+      }
+    }
+  }
+}
