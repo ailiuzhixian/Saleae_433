@@ -7,7 +7,7 @@
   "extensions": {
     "433": {
       "type": "DigitalMeasurement",
-      "entryPoint": "DigitalMeasurement.MyDigitalMeasurer",
+      "entryPoint": "DigitalMeasurement.Analyzer",
       "metrics": {
         "metricKey": {
           "name": "<metric_name>",
